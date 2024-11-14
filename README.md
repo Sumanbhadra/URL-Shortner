@@ -16,7 +16,7 @@ This is a web application that generates short, unique URLs for long, complex li
 ## Getting Started:
 1. **Clone the repository:**
      ```bash
-   git clone [invalid URL removed]
+   git clone https://github.com/Sumanbhadra/URL-Shortner.git
 3. **Install dependencies**
    ```bash
    cd url-shortener

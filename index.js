@@ -25,7 +25,7 @@ app.use(cookieParser());
 
 app.use("/url",restrictToLoggedInUsers, urlRoute);
 app.use("/user", userRoute);
-app.use("/",checkauth, staticRoute);
+app.use("/",checkAuth, staticRoute);
 
 app.get("/url/:shortId", async (req, res) => {
   const shortId = req.params.shortId;

@@ -10,7 +10,7 @@ This is a web application that generates short, unique URLs for long, complex li
 
 ## Technologies Used:
 * **Frontend:** React, JavaScript, HTML, CSS
-* **Backend:** Node.js, Express.js
+* **Backend:** Node.js, Express.js, JWT
 * **Database:** MongoDB
 
 ## Getting Started:
